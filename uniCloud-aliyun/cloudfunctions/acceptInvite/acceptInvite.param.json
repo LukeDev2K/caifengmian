@@ -1,0 +1,4 @@
+// 本文件中的json内容将在云函数【上传并运行】时作为参数传给云函数。
+{	"openid":"oxiXk5PpDRYP0f_elJJnXMjYr-0g",
+	"inviteId":"oxiXk5H2EFEPZouBuiL4OWgaIATY"
+}

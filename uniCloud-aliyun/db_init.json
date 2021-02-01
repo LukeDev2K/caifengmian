@@ -1,0 +1,140 @@
+{
+    "adv": {
+        "data": [
+            {
+                "bannerPic": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/9180b720-5df3-11eb-bdc1-8bd33eb6adaa.png",
+                "icon": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/f1aa9810-5df2-11eb-8ff1-d5dcf8779628.png",
+                "minapp": {
+                    "appid": "wxece3a9a4c82f58c9",
+                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/NPKvdtu"
+                },
+                "name": "饿了么红包1",
+                "tabId": 1,
+                "type": 1,
+                "url": "https://s.click.ele.me/NPKvdtu",
+                "active": true
+            }
+        ]
+    },
+    "config": {
+        "data": [
+            {
+                "wechatAdv": {
+                    "banner": "adunit-d2dd87c9a4d708a2",
+                    "inters": "adunit-923f4424567bafcb",
+                    "video": "adunit-79e7454b27e5af87",
+                    "rewardVideo": "adunit-b22335c197c3e950",
+                    "five": "xxxxx"
+                },
+                "advShow": true,
+                "shareImage": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/5b2363f0-5ffe-11eb-bdc1-8bd33eb6adaa.png",
+                "takeUrl": "https://mp.weixin.qq.com/s/",
+                "shareTitle": "一起猜封面序列号，免费得好看的红包封面",
+                "inviteBg": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/da183a20-60b5-11eb-918d-3d24828c498c.jpg",
+                "defaultImage": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/a9c378e0-62fd-11eb-a16f-5b3e54966275.jpg",
+                "invitePoint": 20,
+                "videoAdPoint": 10,
+                "gzh": {
+                    "name": "公众号名字",
+                    "desc": "每天点外卖省钱(积分+30)",
+                    "point": 30,
+                    "image": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/a9c378e0-62fd-11eb-a16f-5b3e54966275.jpg",
+                    "url": "https://mp.weixin.qq.com/s/"
+                }
+            }
+        ]
+    },
+    "cover": {
+        "data": [
+            {
+                "name": "绿色祝你快乐",
+                "category": "一般",
+                "point": 3,
+                "joins": [],
+                "gets": [],
+                "imageBanner": [
+                    {
+                        "url": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/0b03baf0-5bee-11eb-8d54-21c4ca4ce5d7.png"
+                    }
+                ],
+                "active": true,
+                "mainBanner": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-aliyun-kcc3luguatdjd9e570/0b03baf0-5bee-11eb-8d54-21c4ca4ce5d7.png",
+                "ratio": 70,
+                "autoTake": true,
+                "no": "01"
+            }
+        ]
+    },
+    "invite": {
+        "data": [
+            {
+                "openid": "oxiXk5H2EFEPZouBuiL4OWgaIATY",
+                "inviteId": "oxiXk5BsflfTJ9j3DPk--_aSzReQ",
+                "nickName": "xiaoli",
+                "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/MaIusypwiagRrUhS0tPed18ENa01MXvvBnIXBIRktQkibtMAvDn5JDGibbECzvAzCOiaSib1jIibRq7iaZmZiaNDIlsaBg/132",
+                "inviteDate": "2021-1-28 00:51:36"
+            }
+        ]
+    },
+    "message": {
+        "data": [
+            {
+                "templateId": "RM_3jTw4Acs65PS6o_1x-SMkLqNtWgO5BWAYMeusiPM",
+                "done": false
+            }
+        ]
+    },
+    "participate": {
+        "data": [
+            {
+                "openid": "oxiXk5PpDRYP0f_elJJnXMjYr-0g",
+                "coverId": "60099134b487c00001a93ecc",
+                "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/YMKt5mibicfk9CyDcFWtucFn11pheODR0DGBsyC4fTDIG1Pp9rqehBOYiahGDpz2tlMZq1xeov5VNk8qgJKqMCNVg/132",
+                "joinDate": "2021-1-26 22:29:38"
+            }
+        ]
+    },
+    "serial-num": {
+        "data": [
+            {
+                "coverId": "600983deba58b00001e378bf",
+                "num": "xuliehao",
+                "expire": "2010-2-20",
+                "isGot": true,
+                "keyIndex": 7,
+                "userBy": {},
+                "takeUser": "oxiXk5DJKk3P6VGnPQT_ppJDpJRs",
+                "userAvatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTK4lru46qRiaDYicTeVfC1MMs4otnibSWIEsVRGBqw7VN5CYh1Pib54rF3MCN7gKYAC8jTSWiaqicPKibJhQ/132",
+                "takeDate": "2021-1-30 23:01:09",
+                "gotType": "direct"
+            }
+        ]
+    },
+    "token": {
+        "data": [
+            {
+                "access_token": "41_JjpNbl37ApSBxXQeTb6NYMEXQBMNnLcdXg--6BPDG4ZlOWnqNKw1Xbzy3X8k4OQHBzhVd2-PV81p0YKNQkiz9tNg5UecZGPLkLm5zOYu8-jDPO84R5t6TntbPXPUVzTF8m1ZmS8Zn_Rb2nuDSVQbAJAORM",
+                "expires_in": 0,
+                "createTime": "2021-01-24T12:17:36.525Z"
+            }
+        ]
+    },
+    "user": {
+        "data": [
+            {
+                "nickName": "+龙",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "China",
+                "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/YMKt5mibicfk9CyDcFWtucFn11pheODR0DGBsyC4fTDIG1Pp9rqehBOYiahGDpz2tlMZq1xeov5VNk8qgJKqMCNVg/132",
+                "lastSignTime": "",
+                "joins": [],
+                "guessTime": 64,
+                "gets": [],
+                "point": 785
+            }
+        ]
+    }
+}

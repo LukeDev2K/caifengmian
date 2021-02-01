@@ -1,0 +1,4 @@
+{
+	"timingTriggerConfig": "cron:0 0 * * * *",
+	"timestamp": 1607353209243
+}

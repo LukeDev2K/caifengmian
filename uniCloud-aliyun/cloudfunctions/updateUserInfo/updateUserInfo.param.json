@@ -1,0 +1,14 @@
+// 本文件中的json内容将在云函数【上传并运行】时作为参数传给云函数。
+
+{
+	"_id": "oM67E5PAg_EaR3GKdBQXg5XPRLXo",
+	"dataId": 1,
+	"nickName": "+龙11111",
+	"gender": 1,
+	"language": "zh_CN",
+	"city": "Guangzhou",
+	"province": "Guangdong",
+	"country": "China",
+	"avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/iaaleIiam5v3GDhEQzU2qfx4B18k7ZQfqaFXMXzIic8KQyibickibPa2fKFFZLaXy5wpl5rW8urnOteFcCvTh79s3Lzw/132",
+	"lessTime": 15
+}
