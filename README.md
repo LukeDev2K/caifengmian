@@ -2,6 +2,7 @@
 
 微信红包封面领取小程序
 
+![](https://wx3.sinaimg.cn/mw690/006tH1zUgy1gnsobtwrazj31110d3tro.jpg)
   
 
 ### 使用方法
